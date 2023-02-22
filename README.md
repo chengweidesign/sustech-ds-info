@@ -21,6 +21,7 @@ This info session may include:
 > * Past official sharing sessions for the students.
 > * Past unofficial sharing sessions by the students.
 
+###### Files in this repository are also available on [Wavie's Cloud](https://files.chengwei.design/ds_info).
 
 SUSTech School of Design reserves the right of all final interpretations.
 
